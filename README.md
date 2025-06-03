@@ -17,15 +17,14 @@
 
 ## 🛠️ Habilidades Técnicas
 
-| Herramienta / Lenguaje | Nivel |
+| Herramienta / Lenguaje 
 |------------------------|-------|
-| Python (Pandas, NumPy, Matplotlib, Seaborn) | Intermedio |
-| SQL (PostgreSQL, MySQL) | Intermedio |
-| Excel / Google Sheets | Avanzado |
-| Power BI / Tableau | Intermedio |
-| Git / GitHub | Básico |
-| Estadística Descriptiva | Intermedio |
-
+| Python (Pandas, NumPy, Matplotlib, Seaborn) 
+| SQL (PostgreSQL, MySQL) 
+| Excel / Google Sheets 
+| Power BI 
+| Git / GitHub 
+| Estadística Descriptiva
 ---
 
 ## 📂 Proyectos Destacados
@@ -48,8 +47,8 @@
 
 ## 📫 ¿Cómo contactarme?
 
-- 💼 [LinkedIn](www.linkedin.com/in/luis-andres-ladino-velez-74b3661a2)
-- ✉️ [Correo Electrónico](luisladvel9797@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-andres-ladino-velez-74b3661a2/)
+- ✉️ (luisladvel9797@gmail.com)
 
 ---
 
