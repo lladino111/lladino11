@@ -18,7 +18,7 @@
 ## 🛠️ Habilidades Técnicas
 
 | Herramienta / Lenguaje 
-|------------------------|-------|
+|------------------------
 | Python (Pandas, NumPy, Matplotlib, Seaborn) 
 | SQL (PostgreSQL, MySQL) 
 | Excel / Google Sheets 
