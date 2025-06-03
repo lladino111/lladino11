@@ -48,9 +48,8 @@
 
 ## 📫 ¿Cómo contactarme?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)
-- ✉️ [Correo Electrónico](mailto:tucorreo@example.com)
-- 🌐 [Portfolio (si tienes uno)](https://tuportfolio.com)
+- 💼 [LinkedIn](www.linkedin.com/in/luis-andres-ladino-velez-74b3661a2)
+- ✉️ [Correo Electrónico](luisladvel9797@gmail.com)
 
 ---
 
