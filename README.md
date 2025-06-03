@@ -10,7 +10,7 @@
 
 - 📊 Apasionado por el análisis exploratorio, limpieza de datos y visualización.
 - 🧰 Familiarizado con herramientas como **SQL, Excel, Python, Power BI y Tableau**.
-- 📚 Actualmente aprendiendo más sobre **Machine Learning** y **Big Data**.
+- 📚 Actualmente aprendiendo más sobre **Machine Learning**.
 - 🤝 Abierto a colaborar en proyectos de datos y visualización.
 
 ---
@@ -27,21 +27,6 @@
 | Estadística Descriptiva
 ---
 
-## 📂 Proyectos Destacados
-
-### 📈 [Análisis de Ventas de una Tienda Minorista](https://github.com/tuusuario/proyecto-ventas)
-- Exploración y limpieza de datos en Python
-- Visualizaciones con Matplotlib y Seaborn
-- Dashboard interactivo en Power BI
-
-### 🚲 [Análisis de Viajes en Bicicleta](https://github.com/tuusuario/proyecto-bicicletas)
-- Dataset público de uso de bicicletas
-- Análisis de estacionalidad y patrones de uso
-- Historias visuales con Tableau
-
-### 💼 [Dashboard de KPIs para Recursos Humanos](https://github.com/tuusuario/proyecto-rrhh)
-- Dashboard con Power BI para monitorear métricas de empleados
-- Segmentación y visualización por departamento y antigüedad
 
 ---
 
